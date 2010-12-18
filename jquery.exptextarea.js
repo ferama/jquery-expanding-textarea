@@ -1,8 +1,11 @@
 /*
  * jQuery expanding textarea
  * 
+ * https://github.com/ferama/jquery-expanding-textarea
+ * 
  * Adapted for jQuery from dojo TextArea widget
  *
+ * @author Marco Ferragina
  * @version 1.00
  */
 
