@@ -209,6 +209,7 @@ $.fn.expandingTextArea = function() {
             .bind('scroll.expandingTextarea', _onInput)
             .bind('resize.expandingTextarea', _onInput)
             .bind('focus.expandingTextarea', _onInput)
+            .bind('blur.expandingTextarea', _onInput)
             .bind('cut.expandingTextarea', _onInput)
             .bind('paste.expandingTextarea', _onInput);
     });
