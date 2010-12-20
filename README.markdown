@@ -15,3 +15,5 @@ Now you can select a text area using jQuery selector and turn it into an expanda
     <script>
     $('textarea').expandingTextArea();
     </script>
+
+Take a look [here](http://fer-menta.blogspot.com/2010/12/jquery-expanding-textarea.html) for a live example
